@@ -1,11 +1,6 @@
 <p align="left">Hola soy Diego, esta organización la cree por hobby, subiré scripts públicos para Pokémon Essentials 21 y ocasionalmente tambien para la version 16.3.<br>Soy co creador de la Base de Sky, una base de Pokémon Essentials 21, traducida al español y con varias mejoras.<br>También he desarrollado scripts para juegos hechos en Pokemon Essentials 16 como Pokémon Añil y Pokémon Z de EricLostie.</p>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpertierra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div> 
-
 <h3 align="left">Repositorios Destacados</h3>
 <div align="left">
   <p>
