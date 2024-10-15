@@ -44,5 +44,6 @@
 </div>
 
 ###
-
-###
+<p>Todos los scripts que hago aquí los hago por hobby. Las donaciones no son pedidas ni esperadas, pero si considerás sponsorearme en GitHub estaré más que agradecido.</p>
+<p>Puedes hacerlo dandole click al siguiente boton</p>
+<a href="https://github.com/sponsors/Pokemon-Fan-Games" target="_blank"><img src="https://img.shields.io/github/sponsors/Pokemon-Fan-Games?label=Sponsor&logo=GitHub" width="150" /></a>
